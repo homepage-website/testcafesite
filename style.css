@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-color: #DEB887;
+}
+header p {
+    color: red;
+}
+.menuall h2 {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.menu img {
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 80%;
+    height: 80%;
+}
+.menu h4 {
+    text-align: center;
+}
+.menu p {
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.menu1 {
+    background-color: #DEB887;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.menu2 {
+    margin-top: 10%;
+    background-color: #DEB887;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.menu3 {
+    margin-top: 10%;
+    background-color: #DEB887;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.menu4 {
+    margin-top: 10%;
+    background-color: #DEB887;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.listheading {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.oklist img {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    width: 80%;
+    height: 80%;
+}
+.oklist h4 {
+    text-align: center;
+}
+.oklist p {
+    text-align: center;
+    padding-bottom: 5%;
+}
+.list1 {
+    background-color: #DEB887;
+}
+.list2 {
+    margin-top: 10%;
+    background-color: #DEB887;
+}
+.shop h2 {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.shop img {
+    width: 80%;
+    height: 80%;
+    padding: 5%;
+    background-color: #DEB887;
+    margin-left: 5%;
+    margin-right: 5%
+}
+.inquiry h2 {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.inquiry {
+    text-align: center;
+    padding-bottom: 5%;
+}
+.alert {
+    color: red;
+}
